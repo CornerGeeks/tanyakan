@@ -1,0 +1,9 @@
+<?php
+# rename / copy this file to config.php and fill in details accordingly
+# there is no need to create any database tables. RedBean will take care of it for you
+
+define('DB_NAME', 'database_name_here');
+define('DB_USER', 'username_here');
+define('DB_PASSWORD', 'password_here');
+define('DB_HOST', 'localhost');
+?>
